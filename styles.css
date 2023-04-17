@@ -1,0 +1,25 @@
+body{
+    background-color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloco{
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:white;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    width: fit-content;
+}
+.butao{
+    background-color: aqua;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.bloco input{
+    width: 100%;
+}
